@@ -255,7 +255,7 @@
     {
       "tag": "ALIAS",
       "server": "YOURDOMAIN",
-      "server_port": PORT,
+      "server_port": 443,
       "type": "hysteria2",
       "password": "PASSWORD",
       "tls": {
