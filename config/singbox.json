@@ -231,7 +231,7 @@
     {
       "tag": "☁️ ",
       "outbounds": [
-        "ALIAS"  
+        "别名"  
       ],
       "interrupt_exist_connections": true,
       "type": "selector"
@@ -253,11 +253,11 @@
       "tag": "block"
     },
     {
-      "tag": "ALIAS",
-      "server": "YOURDOMAIN",
-      "server_port": 443,
+      "tag": "别名",
+      "server": "域名",
+      "server_port": 端口,
       "type": "hysteria2",
-      "password": "PASSWORD",
+      "password": "密码",
       "tls": {
         "insecure": false,
         "enabled": true
