@@ -1,2 +1,1 @@
-# template
-just a configuration template
+##just a configuration template##
